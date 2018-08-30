@@ -56,4 +56,4 @@ Revision:     efcf8c1cf533b03c70f394f270f46a174c738efc
 
 ## Author
 All code and content written by James Hester Jr.
-Any questions or comments, please email at [mailto](himself@jameshesterj.com)
+Any questions or comments, please email at <himself@jameshesterj.com>
