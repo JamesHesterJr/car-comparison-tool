@@ -1,6 +1,6 @@
 
 # Cars - A Car Comparison Program
-A Coding Assessment for Trowe Price
+A Coding Assessment for potential professional opportunities
 
 ## Assigment
 
